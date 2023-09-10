@@ -1,1 +1,1 @@
-## MLFlow experiment Linear regression wine queality
+## MLFlow experiment Linear regression wine quality
